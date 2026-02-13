@@ -1,11 +1,11 @@
 Heart Disease Prediction using Machine Learning
-📌 Project Overview
+Project Overview
 
 HeartDiseaseML is a supervised machine learning project designed to predict the likelihood of heart disease occurrence based on clinical and patient health data.
 
 The objective of this project is to demonstrate how classification models can support early detection of cardiovascular conditions and assist in preventive healthcare decision-making.
 
-🎯 Business / Clinical Problem
+Business / Clinical Problem
 
 Cardiovascular diseases are among the leading causes of mortality globally. Early prediction of heart disease risk enables:
 
@@ -19,7 +19,7 @@ Reduced long-term treatment costs
 
 This project builds a predictive model that classifies whether a patient is at risk of heart disease based on medical attributes.
 
-🛠 Tech Stack
+Tech Stack
 
 Python
 
@@ -31,8 +31,8 @@ Scikit-learn – Model building and evaluation
 
 Jupyter Notebook
 
-📊 Project Workflow
-1️⃣ Data Preprocessing
+Project Workflow
+1️ Data Preprocessing
 
 Handled missing values
 
@@ -42,7 +42,7 @@ Performed feature scaling where necessary
 
 Split dataset into training and testing sets
 
-2️⃣ Exploratory Data Analysis (EDA)
+2️ Exploratory Data Analysis (EDA)
 
 Visualised feature distributions using Seaborn
 
@@ -50,7 +50,7 @@ Correlation heatmaps to identify relationships
 
 Identified key risk indicators
 
-3️⃣ Model Development
+3️ Model Development
 
 Built and evaluated multiple classification models, including:
 
@@ -60,7 +60,7 @@ Random Forest
 
 Other classification algorithms
 
-4️⃣ Model Evaluation
+4️ Model Evaluation
 
 Models were evaluated using:
 
@@ -70,7 +70,7 @@ Precision Score
 
 Confusion Matrix
 
-📈 Results
+ Results
 
 Accuracy: 90%
 
@@ -78,7 +78,7 @@ Precision Score: 94%
 
 The model demonstrated strong predictive performance, particularly in correctly identifying positive heart disease cases (high precision).
 
-🔍 Key Insights
+Key Insights
 
 Certain clinical features showed strong correlation with heart disease occurrence.
 
@@ -86,7 +86,7 @@ Feature engineering and proper preprocessing significantly improved model perfor
 
 Ensemble methods improved prediction stability.
 
-🚀 Future Improvements
+Future Improvements
 
 Implement cross-validation for robustness
 
@@ -98,10 +98,7 @@ Integrate real-world clinical datasets
 
 Add ROC-AUC evaluation metric
 
-📷 Visualisations
-
-(Add screenshots of:)
-
+Visualisations
 Correlation heatmap
 
 Feature distribution plots
@@ -110,7 +107,7 @@ Confusion matrix
 
 Visual outputs improve recruiter engagement significantly.
 
-💡 Why This Project Matters
+Why This Project Matters
 
 This project demonstrates:
 
